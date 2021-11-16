@@ -1,3 +1,8 @@
+# 数据挖掘实现
+
+频繁项集挖掘算法：Apriori、FP_growth
+聚类算法：K-means、DBScan
+
 ## 运行说明
 
 打开IDEA，导入第三方包
