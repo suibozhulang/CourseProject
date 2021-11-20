@@ -8,6 +8,10 @@ File->Project Structure->Modules->Dependencies
 
 ![image-20211116102758011](C:\Users\HE\AppData\Roaming\Typora\typora-user-images\image-20211116102758011.png)
 
+
+
+
+
 ## 运行结果
 
 TestforApriori 运行截图：
