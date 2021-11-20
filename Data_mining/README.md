@@ -6,9 +6,6 @@
 
 File->Project Structure->Modules->Dependencies
 
-![image-20211116102758011](C:\Users\HE\AppData\Roaming\Typora\typora-user-images\image-20211116102758011.png)
-
-
 
 
 
@@ -16,16 +13,14 @@ File->Project Structure->Modules->Dependencies
 
 TestforApriori 运行截图：
 
-![QQ截图20211115204821](D:\桌面\QQ截图20211115204821.png)
 
 TestforFP_growth 运行截图：
 
-![QQ截图20211115205019](D:\桌面\QQ截图20211115205019.png)
 
 TestforK_Means 运行截图：
 
-![QQ截图20211115204102](D:\桌面\QQ截图20211115204102.png)
+
 
 TestforDBScan 运行截图：
 
-![QQ截图20211115204117](D:\桌面\QQ截图20211115204117.png)
+
