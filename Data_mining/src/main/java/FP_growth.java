@@ -285,7 +285,6 @@ public class FP_growth {
             System.out.println(term + "：" + s + "，支持度" + fp.allFrequentSetMap.get(s)*1.0/fp.Size);
             term++;
         }
-
     }
 }
 

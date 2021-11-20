@@ -55,8 +55,8 @@ public class TestForK_means extends Canvas{
             y_bottom=Math.min(y_bottom,p.getY());
             y_top=Math.max(y_top,p.getY());
         }
-        X_RATIO=(WIDTH-35)/(x_right-x_left);
-        Y_RATIO=(HEIGHT-35)/(y_top-y_bottom);
+        X_RATIO=(double) (WIDTH-35)/(x_right-x_left);
+        Y_RATIO=(double) (HEIGHT-35)/(y_top-y_bottom);
 
         //生成K种随机颜色
         Color[] colors=new Color[K];

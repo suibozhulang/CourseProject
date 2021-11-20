@@ -60,8 +60,8 @@ public class TestforDBScan extends Canvas {
             maxlabel=Math.max(maxlabel,p.getLable());
         }
 //        System.out.println(maxlabel);
-        X_RATIO=(WIDTH-35)/(x_right-x_left);
-        Y_RATIO=(HEIGHT-35)/(y_top-y_bottom);
+        X_RATIO=(double) (WIDTH-35)/(x_right-x_left);
+        Y_RATIO=(double) (HEIGHT-35)/(y_top-y_bottom);
 
         Color[] colors=new Color[maxlabel+1];
         for(int i=1;i<=maxlabel;i++){

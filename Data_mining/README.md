@@ -1,8 +1,3 @@
-# 数据挖掘实现
-
-频繁项集挖掘算法：Apriori、FP_growth
-聚类算法：K-means、DBScan
-
 ## 运行说明
 
 打开IDEA，导入第三方包
@@ -11,22 +6,22 @@
 
 File->Project Structure->Modules->Dependencies
 
-![image](https://user-images.githubusercontent.com/41096770/141885288-870795f5-56b8-470c-9991-2fcfeb28343e.png)
+![image-20211116102758011](C:\Users\HE\AppData\Roaming\Typora\typora-user-images\image-20211116102758011.png)
 
 ## 运行结果
 
 TestforApriori 运行截图：
 
-![image](https://user-images.githubusercontent.com/41096770/141885312-7852fef5-2045-4a5c-8a13-bf2548e4cdb4.png)
+![QQ截图20211115204821](D:\桌面\QQ截图20211115204821.png)
 
 TestforFP_growth 运行截图：
 
-![image](https://user-images.githubusercontent.com/41096770/141885321-4f6b0b3f-f135-41a1-a867-d664df721c80.png)
+![QQ截图20211115205019](D:\桌面\QQ截图20211115205019.png)
 
 TestforK_Means 运行截图：
 
-![image](https://user-images.githubusercontent.com/41096770/141885326-8d588493-ff56-4742-b7cc-d653ffed716f.png)
+![QQ截图20211115204102](D:\桌面\QQ截图20211115204102.png)
 
 TestforDBScan 运行截图：
 
-![image](https://user-images.githubusercontent.com/41096770/141885337-8234849e-4b79-430c-919c-90c616ac8dbb.png)
+![QQ截图20211115204117](D:\桌面\QQ截图20211115204117.png)
