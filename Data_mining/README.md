@@ -6,22 +6,29 @@
 
 File->Project Structure->Modules->Dependencies
 
-![image-20211116102758011](截图\image-20211116102758011.png)
+![image-20211116102758011](https://user-images.githubusercontent.com/41096770/142725480-e4f83ddb-e972-4984-a821-ab318ef629bf.png)
+
 
 ## 运行结果
 
 TestforApriori 运行截图：
 
-![QQ截图20211115204821](截图\QQ截图20211115204821.png)
+![QQ截图20211115204821](https://user-images.githubusercontent.com/41096770/142725487-05f5d0f8-0aaa-407f-987c-c77a529b5a00.png)
+
 
 TestforFP_growth 运行截图：
 
-![QQ截图20211115205019](截图\QQ截图20211115205019.png)
+![QQ截图20211115205019](https://user-images.githubusercontent.com/41096770/142725491-fca46586-3724-4735-8015-d49b6a0e8702.png)
+
 
 TestforK_Means 运行截图：
 
-![QQ截图20211115204102](截图\QQ截图20211115204102.png)
+![QQ截图20211115204102](https://user-images.githubusercontent.com/41096770/142725492-b016f04b-964a-417e-84f9-e46d2a312b96.png)
+
+
 
 TestforDBScan 运行截图：
 
-![QQ截图20211115204117](截图\QQ截图20211115204117.png)
+![QQ截图20211115204117](https://user-images.githubusercontent.com/41096770/142725496-e5c26d51-481f-495a-ad46-1c820c7e1b02.png)
+
+
